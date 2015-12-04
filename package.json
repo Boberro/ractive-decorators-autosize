@@ -1,0 +1,22 @@
+{
+  "name": "ractive-decorators-autosize",
+  "version": "0.1.0",
+  "author": {
+    "name": "Boberro"
+  },
+  "main": "ractive-decorators-autosize.js",
+  "description": "ractive-decorators-autosize plugin for Ractive.js",
+  "dependencies": {
+    "autosize": "^3.0.14",
+    "ractive": "^0.5.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "jit-grunt": "~0.7.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-qunit": "~0.4.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
